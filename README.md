@@ -43,12 +43,13 @@ This project demonstrates:
 ---
 
 ## 📂 Project Structure
+📦 Cricket_Management_System/
+│
+├── 📄 CRICKET_MANAGEMENT_SYSTEM.sql # Complete Database Creation Script (Tables + Constraints + Sample Data)
+├── 📄 Queries.sql # Collection of 20+ Analytical SQL Queries
+└── 🖼 ER_Diagram.png # Entity-Relationship Diagram (Visual Representation of Tables & Relationships)
 
-├── CRICKET_MANAGEMENT_SYSTEM.sql # Full Database Script
-├── ER_Diagram.png # ER Diagram
-└── Queries.sql # SQL Queries for Analysis
-
-
+ 
 ---
 
 ## 📸 Visual Diagram  
@@ -60,6 +61,7 @@ This project demonstrates:
   
 
 ### ✅ 1. List all teams
+
 ```sql
 SELECT TEAM_NAME FROM TEAMS;
 ```
