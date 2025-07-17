@@ -20,7 +20,7 @@ This project demonstrates:
 ## ✅ Features
 ✔ **9 Interconnected Tables** for Teams, Players, Matches, Auctions, and more  
 ✔ **Primary & Foreign Keys**, Constraints  
-✔ **20+ Analytical Queries** for:  
+✔ **20 Analytical Queries** for:  
    - Match Schedules & Results  
    - Player Performance Analysis  
    - Points Table Standings  
