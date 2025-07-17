@@ -57,9 +57,7 @@ This project demonstrates:
 ---
 
 ## 🔍 Sample Queries
-✔ **List all teams:**  
-``sql
-## 📌 Sample Queries
+  
 
 ### ✅ 1. List all teams
 ```sql
