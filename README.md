@@ -90,16 +90,12 @@ JOIN TEAMS AS CHAMPION ON FINAL_MATCH.CHAMPION_TEAM = CHAMPION.TEAM_ID;
 
 
 ## 🤝 Contributors
-* 👤 [Parv Coding](https://github.com/cjasoncode)
-* 👤 [Vishesh Verma](https://github.com/Ogvishesh)
+* 👤 [cjasoncode](https://github.com/cjasoncode)
+* 👤 [Ogvishesh](https://github.com/Ogvishesh)
 
 ---
 
-## 📌 GitHub Repositories
-👉 [Parv's Repo](https://github.com/cjasoncode/CRICKET_MANAGMENT_SYSTEM)  
-👉 [Vishesh's Repo](https://github.com/Ogvishesh/CRICKET_MANAGMENT_SYSTEM)
-
----
+ 
 
 ## 🚀 How to Run
 
@@ -109,3 +105,11 @@ JOIN TEAMS AS CHAMPION ON FINAL_MATCH.CHAMPION_TEAM = CHAMPION.TEAM_ID;
 
 ```sql
 CREATE DATABASE CRICKET_MANAGMENT_SYSTEM;
+```
+
+3. **Import** `CRICKET_MANAGEMENT_SYSTEM.sql`.
+
+4. **Run queries** from `Queries.sql`.
+
+
+
