@@ -1,6 +1,4 @@
-<!-- Banner Image -->
-
-
+ 
 # 🏏 Cricket Management System (MySQL)
 
 **"Cricket Meets SQL – A Perfect Partnership!"**  
