@@ -41,6 +41,7 @@ This project demonstrates:
 ---
 
 ## 📂 Project Structure
+<<<<<<< Updated upstream
 📦 Cricket_Management_System/
 │
 ├── 📄 CRICKET_MANAGEMENT_SYSTEM.sql # Complete Database Creation Script (Tables + Constraints + Sample Data)
@@ -48,10 +49,24 @@ This project demonstrates:
 └── 🖼 ER_Diagram.png # Entity-Relationship Diagram (Visual Representation of Tables & Relationships)
 
  
+=======
+```
+📦 Cricket_Management_System/
+│
+├── 📄 MAIN.SQL/CRICKET_MANAGEMENT_SYSTEM.SQL
+│    
+├── 📄 PROJECT QUERIES / Project_Queries.pdf   
+│                  
+└── 🖼 ER_DIAGRAM / ER_Diagram.png ,ER_DIAGRAM.pdf   
+
+```
+
+
+>>>>>>> Stashed changes
 ---
 
 ## 📸 Visual Diagram  
-![ER Diagram](MAIN.SQL\ER_DIAGRAM.png)  
+![ER Diagram](ER_DIAGRAM\ER_DIAGRAM.png)  
 
 ---
 
