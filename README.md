@@ -52,7 +52,7 @@ This project demonstrates:
 ---
 
 ## 📸 Visual Diagram  
-![ER Diagram](ER_Diagram.png)  
+![ER Diagram](MAIN.SQL\ER_DIAGRAM.png)  
 
 ---
 
